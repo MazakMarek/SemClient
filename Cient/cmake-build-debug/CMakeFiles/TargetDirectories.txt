@@ -1,0 +1,3 @@
+C:/Users/pc/OneDrive - Žilinská univerzita v Žiline/Desktop/POS/Cient/cmake-build-debug/CMakeFiles/Cient.dir
+C:/Users/pc/OneDrive - Žilinská univerzita v Žiline/Desktop/POS/Cient/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/OneDrive - Žilinská univerzita v Žiline/Desktop/POS/Cient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
